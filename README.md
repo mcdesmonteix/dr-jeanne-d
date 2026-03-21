@@ -1,7 +1,11 @@
-# Dr D. Jeanne
-Landing Page for Doctors
-Création du Projet sur Genspark : https://www.genspark.ai/agents?id=cd9efa99-8d07-4c5e-be15-6f07a93c2114
+# Dr. Jeanne D. 👩‍⚕️
 
+![Status](https://img.shields.io/badge/Status-Production-brightgreen) ![Language](https://img.shields.io/badge/Maintained%3F-Yes-blue) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
+
+## 📝 Description
+Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 ---
 
 ## ✅ Landing page générée et en ligne !
