@@ -16,7 +16,7 @@
 
 Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 
-## ✅ Landing page générée et en ligne !
+## ✅ Landing page générée en ligne
 
 🌐 **URL de prévisualisation :**
 **https://mcdesmonteix.github.io/dr-jeanne-d/**
