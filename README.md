@@ -1,12 +1,20 @@
 # Dr. Jeanne D. 👩‍⚕️
 
-![Status](https://img.shields.io/badge/Status-Production-brightgreen) ![Language](https://img.shields.io/badge/Maintained%3F-Yes-blue) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-6.5.1-528DD7?style=flat&logo=fontawesome&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-Poppins+Inter-4285F4?style=flat&logo=google-fonts&logoColor=white)
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222?style=flat&logo=github)](https://mcdesmonteix.github.io/dr-jeanne-d/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmcdesmonteix.github.io%2Fdr-jeanne-d%2F&label=Site)](https://mcdesmonteix.github.io/dr-jeanne-d/)
+![GitHub last commit](https://img.shields.io/github/last-commit/mcdesmonteix/dr-jeanne-d)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 
 ## 📝 Description
-Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 
+Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 
 ## ✅ Landing page générée et en ligne !
 
@@ -18,6 +26,7 @@ Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 ### 📐 Ce qui a été créé — `index.html` (1 692 lignes)
 
 #### Structure des sections
+
 | # | Section | Contenu |
 |---|---------|---------|
 | 1 | **Navbar fixe** | Logo + ancres + CTA "Prendre RDV" · menu hamburger mobile · fond transparent → blanc au scroll |
@@ -30,16 +39,18 @@ Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 | 8 | **Footer** | Mentions légales, RPPS, urgences, liens placeholders |
 
 #### Design
-- 🎨 **Palette** : bleu médical `#3b82c4` · gris bleu · accent pêche/saumon `#f4a47a`
-- 🔤 **Polices** : Poppins (titres) + Inter (corps) via Google Fonts
-- 🖼️ **3 images AI d'après portrait réel Client** : fond hero téléconsultation · portrait médecin hero · portrait parcours
-- ✨ **Animations** : Intersection Observer (fade-up au scroll) · survols de cartes · scroll fluide
 
-#### Personnalisation facile — tout est commenté dans le HTML
-```html
-<!-- PERSONNALISER : nom du médecin -->
-<!-- PERSONNALISER : lien de prise de RDV -->
-<!-- CHANGER L'URL DE L'IMAGE ICI -->
-<!-- PERSONNALISER : nombre d'années d'expérience -->
-<!-- PERSONNALISER : numéro RPPS -->
-```
+- 🎨 **Palette** : bleu médical `#3b82c4` · gris bleu · accent pêche/saumon `#f4a47a`
+- - 🔤 **Polices** : Poppins (titres) + Inter (corps) via Google Fonts
+  - - 🖼️ **3 images AI d'après portrait réel Client** : fond hero téléconsultation · portrait médecin hero · portrait parcours
+    - - ✨ **Animations** : Intersection Observer (fade-up au scroll) · survols de cartes · scroll fluide
+     
+      - #### Personnalisation facile — tout est commenté dans le HTML
+     
+      - ```html
+        <!-- PERSONNALISER : nom du médecin -->
+        <!-- PERSONNALISER : lien de prise de RDV -->
+        <!-- CHANGER L'URL DE L'IMAGE ICI -->
+        <!-- PERSONNALISER : nombre d'années d'expérience -->
+        <!-- PERSONNALISER : numéro RPPS -->
+        ```
