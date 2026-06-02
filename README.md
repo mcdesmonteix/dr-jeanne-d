@@ -6,12 +6,12 @@
 
 ## 📝 Description
 Projet de site vitrine pour le cabinet de Dr. Jeanne D.
----
+
 
 ## ✅ Landing page générée et en ligne !
 
 🌐 **URL de prévisualisation :**
-**https://3000-igyv3us5j5viaapuwg1f4-5185f4aa.sandbox.novita.ai**
+**https://mcdesmonteix.github.io/dr-jeanne-d/**
 
 ---
 
@@ -32,7 +32,7 @@ Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 #### Design
 - 🎨 **Palette** : bleu médical `#3b82c4` · gris bleu · accent pêche/saumon `#f4a47a`
 - 🔤 **Polices** : Poppins (titres) + Inter (corps) via Google Fonts
-- 🖼️ **3 images Unsplash** : fond hero téléconsultation · portrait médecin hero · portrait parcours
+- 🖼️ **3 images AI d'après portrait réel Client** : fond hero téléconsultation · portrait médecin hero · portrait parcours
 - ✨ **Animations** : Intersection Observer (fade-up au scroll) · survols de cartes · scroll fluide
 
 #### Personnalisation facile — tout est commenté dans le HTML
