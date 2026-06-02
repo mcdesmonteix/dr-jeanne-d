@@ -39,18 +39,16 @@ Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 | 8 | **Footer** | Mentions légales, RPPS, urgences, liens placeholders |
 
 #### Design
-
 - 🎨 **Palette** : bleu médical `#3b82c4` · gris bleu · accent pêche/saumon `#f4a47a`
-- - 🔤 **Polices** : Poppins (titres) + Inter (corps) via Google Fonts
-  - - 🖼️ **3 images AI d'après portrait réel Client** : fond hero téléconsultation · portrait médecin hero · portrait parcours
-    - - ✨ **Animations** : Intersection Observer (fade-up au scroll) · survols de cartes · scroll fluide
-     
-      - #### Personnalisation facile — tout est commenté dans le HTML
-     
-      - ```html
-        <!-- PERSONNALISER : nom du médecin -->
-        <!-- PERSONNALISER : lien de prise de RDV -->
-        <!-- CHANGER L'URL DE L'IMAGE ICI -->
-        <!-- PERSONNALISER : nombre d'années d'expérience -->
-        <!-- PERSONNALISER : numéro RPPS -->
-        ```
+- 🔤 **Polices** : Poppins (titres) + Inter (corps) via Google Fonts
+- 🖼️ **3 images Unsplash** : fond hero téléconsultation · portrait médecin hero · portrait parcours
+- ✨ **Animations** : Intersection Observer (fade-up au scroll) · survols de cartes · scroll fluide
+
+#### Personnalisation facile — tout est commenté dans le HTML
+```html
+<!-- PERSONNALISER : nom du médecin -->
+<!-- PERSONNALISER : lien de prise de RDV -->
+<!-- CHANGER L'URL DE L'IMAGE ICI -->
+<!-- PERSONNALISER : nombre d'années d'expérience -->
+<!-- PERSONNALISER : numéro RPPS -->
+```
