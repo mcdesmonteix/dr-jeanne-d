@@ -8,7 +8,7 @@
 [![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222?style=flat&logo=github)](https://mcdesmonteix.github.io/dr-jeanne-d/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmcdesmonteix.github.io%2Fdr-jeanne-d%2F&label=Site)](https://mcdesmonteix.github.io/dr-jeanne-d/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mcdesmonteix/dr-jeanne-d)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -28,7 +28,7 @@ Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 #### Structure des sections
 
 | # | Section | Contenu |
-|---|---------|---------|
+|---|---------|----------|
 | 1 | **Navbar fixe** | Logo + ancres + CTA "Prendre RDV" · menu hamburger mobile · fond transparent → blanc au scroll |
 | 2 | **Hero** (100vh) | Badge spécialité · titre · sous-titre · 2 boutons · carte portrait à droite · fond photo Unsplash |
 | 3 | **Trust bar** | 4 arguments de réassurance rapide (expérience, sécurité, ordonnance, conformité) |
@@ -39,16 +39,18 @@ Projet de site vitrine pour le cabinet de Dr. Jeanne D.
 | 8 | **Footer** | Mentions légales, RPPS, urgences, liens placeholders |
 
 #### Design
-- 🎨 **Palette** : bleu médical `#3b82c4` · gris bleu · accent pêche/saumon `#f4a47a`
-- 🔤 **Polices** : Poppins (titres) + Inter (corps) via Google Fonts
-- 🖼️ **3 images Unsplash** : fond hero téléconsultation · portrait médecin hero · portrait parcours
-- ✨ **Animations** : Intersection Observer (fade-up au scroll) · survols de cartes · scroll fluide
 
-#### Personnalisation facile — tout est commenté dans le HTML
-```html
-<!-- PERSONNALISER : nom du médecin -->
-<!-- PERSONNALISER : lien de prise de RDV -->
-<!-- CHANGER L'URL DE L'IMAGE ICI -->
-<!-- PERSONNALISER : nombre d'années d'expérience -->
-<!-- PERSONNALISER : numéro RPPS -->
-```
+- 🎨 **Palette** : bleu médical `#3b82c4` · gris bleu · accent pêche/saumon `#f4a47a`
+- - 🔤 **Polices** : Poppins (titres) + Inter (corps) via Google Fonts
+  - - 🖼️ **3 images AI d'après portrait réel Client** : fond hero téléconsultation · portrait médecin hero · portrait parcours
+    - - ✨ **Animations** : Intersection Observer (fade-up au scroll) · survols de cartes · scroll fluide
+     
+      - #### Personnalisation facile — tout est commenté dans le HTML
+     
+      - ```html
+        <!-- PERSONNALISER : nom du médecin -->
+        <!-- PERSONNALISER : lien de prise de RDV -->
+        <!-- CHANGER L'URL DE L'IMAGE ICI -->
+        <!-- PERSONNALISER : nombre d'années d'expérience -->
+        <!-- PERSONNALISER : numéro RPPS -->
+        ```
